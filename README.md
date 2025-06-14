@@ -98,10 +98,3 @@ ____Relationships____
         An actor can play multiple roles in different movies.A role can be played by multiple actors in different movies.   
     Competitions and Awards:
         Each competition can have multiple awards, and each award can be given in multiple competitions. 
-    
-
-
-Contributors
-    ΑΜ:1115202200199  Όνοματεπωνυμο: Φάτιμα Τσόντρι
-    ΑΜ:1115201900348  Όνοματεπωνυμο: Γρηγόριος Φωτόπουλος
-    ΑΜ:1115201900238  Όνοματεπωνυμο: Κυριάκος Λάμπρος Κιουράνας
